@@ -1,12 +1,17 @@
 {
   "name": "seminarios-i",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Aplicação de terminal para gerenciar tarefas",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "tarefas",
+    "nodejs",
+    "terminal"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs"
